@@ -1,0 +1,26 @@
+h1{
+    font-weight: 100;
+}
+li{
+    font-weight: 1000;
+}
+body{
+    background-image: url(futboll.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+    margin: 0;
+}
+article{
+    background-color: white;
+    padding: 25px;
+    border-radius: 20px;
+    margin:20px;
+}
+h2 {text-align:center; margin-top:20px}
+h3{
+    font-weight: 100;
+}
+a{
+    text-decoration: none;
+}
